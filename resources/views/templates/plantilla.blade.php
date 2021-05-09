@@ -23,8 +23,8 @@
                     </li>                    
                 </ul>
                 <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
+                    <input class="form-control form-control-sm me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-dark btn-sm" type="submit"><i class="fas fa-search"></i></button>
                 </form>
             </div>
         </div>
